@@ -21,13 +21,20 @@
 
   ## Installation
 
-  Check out the project --here--. Installation instruction at the link
+  Check out the app at the bottom of the page!
 
   ---
 
   ## Usage
 
-  n/a
+  
+![Demonstration of being used in the browser and then installed.](./Assets/00-demo.gif)
+
+![Demonstration of manifest file in the browser.](./Assets/01-manifest.png)
+
+![Demonstration of a registered service worker in the browser.](./Assets/02-service-worker.png)
+
+![Demonstration of the IndexedDB storage named 'jate' in the browser.](./Assets/03-idb-storage.png)
 
   ---
 
@@ -63,10 +70,3 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
   Or you liked to email me about anything send me a email at sallen19.dev@gmail.com.
   
 
-![Demonstration of being used in the browser and then installed.](./Assets/00-demo.gif)
-
-![Demonstration of manifest file in the browser.](./Assets/01-manifest.png)
-
-![Demonstration of a registered service worker in the browser.](./Assets/02-service-worker.png)
-
-![Demonstration of the IndexedDB storage named 'jate' in the browser.](./Assets/03-idb-storage.png)
